@@ -1,5 +1,5 @@
 # ML-Methods-Case
-The following are a set of Jupyter Notebooks solutions for the regression and classification final case study in my class of Machine Learning - DAT-5303.
+A set of Jupyter Notebooks solutions for the regression and classification final case study in my class of Machine Learning - DAT-5303.
 
 Each of the case studies had strict requirements based on high model performance, bias/ variance tradeoff, model run-time, and selected libraries. 
 
